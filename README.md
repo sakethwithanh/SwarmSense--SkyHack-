@@ -124,4 +124,4 @@ The swarm operates on a decentralized state machine:
 
 ---
 
-*© 2023 Saketh Ragirolla*
+*© 2025 Saketh Ragirolla*
