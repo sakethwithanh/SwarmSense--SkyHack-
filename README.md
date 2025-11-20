@@ -4,7 +4,9 @@
 **Developed by Saketh Ragirolla**
 
 Guardian Orbit is a high-fidelity, interactive 3D web application simulating a "Guardian" satellite swarm protecting the International Space Station (ISS) from orbital debris. Built for the modern web using React, Three.js (React Three Fiber), and TypeScript, it combines accurate orbital mechanics with gamified command-and-control features.
-![Uploading image.png]()
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/8278a34b-79f1-404e-850e-f5b9c84fb7c3" />
+
+
 
 ---
 
