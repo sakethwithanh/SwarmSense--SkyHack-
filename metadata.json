@@ -1,0 +1,5 @@
+{
+  "name": "Guardian Orbit",
+  "description": "A 3D orbital simulation and debris tracking system implementing the GUARDIAN protocol.",
+  "requestFramePermissions": []
+}
